@@ -12,6 +12,7 @@ namespace TestSingleApp1
             UIApplication.Main(args, null, "AppDelegate");
             //.......
             //change2 for remote push
+            //change3 for remote push command
         }
     }
 }
