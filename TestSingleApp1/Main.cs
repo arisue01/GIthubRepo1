@@ -11,6 +11,7 @@ namespace TestSingleApp1
             // you can specify it here.
             UIApplication.Main(args, null, "AppDelegate");
             //.......
+            //change2 for remote push
         }
     }
 }
